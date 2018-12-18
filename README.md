@@ -6,4 +6,5 @@
   1. コード  
     1. ```print()```  
     1. これは `インラインコード`  
-[Google](https:www.google.co.jp/)  
+[Google](https://www.google.co.jp/)  
+[Yahoo](https://www.yahoo.co.jp/)
