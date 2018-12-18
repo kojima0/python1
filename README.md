@@ -10,4 +10,4 @@
 [Yahoo](https://www.yahoo.co.jp/)
 文字を*italic*にする  
 文字を**強調**する  
-文字を***italic強調***する  
+文字を ***italic強調*** する  
