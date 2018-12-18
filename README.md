@@ -8,3 +8,6 @@
     1. これは `インラインコード`  
 [Google](https://www.google.co.jp/)  
 [Yahoo](https://www.yahoo.co.jp/)
+文字を*イタリック*にする  
+文字を**強調**する  
+文字を***イタリック強調***する  
