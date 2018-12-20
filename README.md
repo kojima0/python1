@@ -1,4 +1,4 @@
-#python1  
+# python1  
 ---  
 TechAcademy  
 python & AI course  
