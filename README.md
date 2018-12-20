@@ -1,5 +1,4 @@
 # python1  
----  
 TechAcademy  
 python & AI course  
 ---  
